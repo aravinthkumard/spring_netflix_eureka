@@ -1,4 +1,4 @@
-package com.example.howtodoinjava.springeurekaclientstudentservice;
+package com.example.springeurekaclientstudentservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

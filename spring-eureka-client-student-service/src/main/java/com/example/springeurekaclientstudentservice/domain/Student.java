@@ -1,4 +1,4 @@
-package com.example.howtodoinjava.springeurekaclientstudentservice.domain;
+package com.example.springeurekaclientstudentservice.domain;
 
 public class Student {
 	private String name;

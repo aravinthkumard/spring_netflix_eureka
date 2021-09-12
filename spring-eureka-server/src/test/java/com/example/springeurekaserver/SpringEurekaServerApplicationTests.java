@@ -1,4 +1,4 @@
-package com.example.howtodoinjava.springeurekaserver;
+package com.example.springeurekaserver;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -1,4 +1,4 @@
-package com.example.howtodoinjava.springeurekaclientschoolservice.controller;
+package com.example.springeurekaclientschoolservice.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.client.loadbalancer.LoadBalanced;

@@ -25,4 +25,4 @@ management:
 
 logging:
   level:
-    com.example.howtodoinjava: DEBUG
+    com.example: DEBUG
